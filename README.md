@@ -83,5 +83,5 @@ KanishkaXJungli is licensed under [GNU Affero General Public License](https://ww
 
 <h3>Credits</h3>
 
-  - <b> [RiZoeL](https://github.com/CoderXKrishna) : Dev/creator of KanishkaXJungli </b> 
+  - <b> [Krishna](https://github.com/CoderXKrishna) : Dev/creator of KanishkaXJungli </b> 
   - <b> [Pyrogram](https://github.com/pyrogram/pyrogram) : Python Library used in KanishkaXJungli
